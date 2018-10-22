@@ -44,7 +44,6 @@ namespace BookQueryApplication.ViewModel
 
         private void SetTitleAuthorListing()
         {
-            string test = "ehlo";
             var titleAuthorList = from title in bookDataSource.Titles
                                   from author in title.Authors
                                   select new { title.Title1, author };

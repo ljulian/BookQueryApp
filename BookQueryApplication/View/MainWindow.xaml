@@ -19,13 +19,15 @@
     </Window.Resources>
 
     <Grid x:Name="LayoutRoot">
-
-        <TextBlock FontSize="12"
+        <ScrollViewer Height="293" Width="292" Margin="10,10,219,10">
+            <TextBlock FontSize="12"
                    Foreground="Black"
                    Text="{Binding Path=SearchResult}"
                    VerticalAlignment="Center"
                    HorizontalAlignment="Center"
-                   TextWrapping="Wrap" Height="293" Margin="10,10,219,10" Width="292" />
+                   TextWrapping="Wrap"  />
+        </ScrollViewer>
+        
         <Button Content="List Title-Author" HorizontalAlignment="Left"
                 Command="{Binding TitleAuthorCommand}"
                 VerticalAlignment="Top" Width="140" Margin="329,104,0,0"/>
