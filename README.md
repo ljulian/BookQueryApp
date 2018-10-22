@@ -1,0 +1,1 @@
+Application to query from Book database using Entity Framework.
