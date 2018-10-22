@@ -17,9 +17,6 @@ E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Deb
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.csprojAssemblyReference.cache
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\MainWindow.baml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\Skins\MainSkin.baml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\MainWindow.g.cs
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\App.g.cs
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication_MarkupCompile.cache
@@ -32,3 +29,6 @@ E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Deb
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.csproj.CopyComplete
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.exe
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.pdb
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\View\MainWindow.baml
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\View\Skins\MainSkin.baml
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\View\MainWindow.g.cs

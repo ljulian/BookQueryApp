@@ -10,11 +10,11 @@ none
 false
 CODE_ANALYSIS;DEBUG;TRACE
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\App.xaml
-2-1356017796
+2-2119055276
 
-15-923645391
+15-277107633
 68-310455567
-MainWindow.xaml;Skins\MainSkin.xaml;
+View\MainWindow.xaml;View\Skins\MainSkin.xaml;
 
-True
+False
 
