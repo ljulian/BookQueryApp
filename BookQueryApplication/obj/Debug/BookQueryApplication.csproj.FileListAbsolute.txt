@@ -32,3 +32,11 @@ E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Deb
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\View\MainWindow.baml
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\View\Skins\MainSkin.baml
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\View\MainWindow.g.cs
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Books.mdf
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Books_log.ldf
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Model\Books.mdf
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.dll
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.xml
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication_Content.g.cs

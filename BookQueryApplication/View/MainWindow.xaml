@@ -20,14 +20,15 @@
 
     <Grid x:Name="LayoutRoot">
 
-        <TextBlock FontSize="36"
-                   FontWeight="Bold"
-                   Foreground="Purple"
-                   Text="Test"
+        <TextBlock FontSize="12"
+                   Foreground="Black"
+                   Text="{Binding Path=SearchResult}"
                    VerticalAlignment="Center"
                    HorizontalAlignment="Center"
-                   TextWrapping="Wrap" Height="189" Margin="53,65,241,59" Width="227" />
-        <Button Content="List Title-Author" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" Margin="329,104,0,0"/>
+                   TextWrapping="Wrap" Height="293" Margin="10,10,219,10" Width="292" />
+        <Button Content="List Title-Author" HorizontalAlignment="Left"
+                Command="{Binding TitleAuthorCommand}"
+                VerticalAlignment="Top" Width="140" Margin="329,104,0,0"/>
         <Button Content="List Title-Author Sorted" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" Margin="329,171,0,0"/>
 
     </Grid>

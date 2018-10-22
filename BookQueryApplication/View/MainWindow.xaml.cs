@@ -17,9 +17,5 @@ namespace BookQueryApplication
             Closing += (s, e) => ViewModelLocator.Cleanup();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
     }
 }

@@ -1,5 +1,8 @@
 ﻿using GalaSoft.MvvmLight;
 using BookQueryApplication.Model;
+using System.Linq;
+using System.Windows.Input;
+using GalaSoft.MvvmLight.Command;
 
 namespace BookQueryApplication.ViewModel
 {
@@ -11,48 +14,49 @@ namespace BookQueryApplication.ViewModel
     /// </summary>
     public class MainViewModel : ViewModelBase
     {
-        private readonly IDataService _dataService;
 
-        /// <summary>
-        /// The <see cref="WelcomeTitle" /> property's name.
-        /// </summary>
-        public const string WelcomeTitlePropertyName = "WelcomeTitle";
 
-        private string _welcomeTitle = string.Empty;
 
-        /// <summary>
-        /// Gets the WelcomeTitle property.
-        /// Changes to that property's value raise the PropertyChanged event. 
-        /// </summary>
-        public string WelcomeTitle
-        {
-            get
-            {
-                return _welcomeTitle;
-            }
-            set
-            {
-                Set(ref _welcomeTitle, value);
-            }
-        }
+        private string _searchResult;
+        private BooksEntities bookDataSource;
+
+        public ICommand TitleAuthorCommand { get; private set; }
 
         /// <summary>
         /// Initializes a new instance of the MainViewModel class.
         /// </summary>
-        public MainViewModel(IDataService dataService)
+        public MainViewModel()
         {
-            _dataService = dataService;
-            _dataService.GetData(
-                (item, error) =>
-                {
-                    if (error != null)
-                    {
-                        // Report error here
-                        return;
-                    }
+            bookDataSource = new BooksEntities();
+            TitleAuthorCommand = new RelayCommand(SetTitleAuthorListing);
+        }
 
-                    WelcomeTitle = item.Title;
-                });
+        public string SearchResult
+        {
+            get => _searchResult;
+
+            set
+            {
+                _searchResult = value;
+                RaisePropertyChanged("SearchResult");
+            }
+        }
+
+        private void SetTitleAuthorListing()
+        {
+            string test = "ehlo";
+            var titleAuthorList = from title in bookDataSource.Titles
+                                  from author in title.Authors
+                                  select new { title.Title1, author };
+            SearchResult = "";
+            string tempResult = "";
+            foreach (var titleAuthor in titleAuthorList)
+            {
+                tempResult += string.Format("Title: {0}\t\t Author: {1} {2}\r\n", 
+                                              titleAuthor.Title1, titleAuthor.author.FirstName,
+                                              titleAuthor.author.LastName); 
+            }
+            SearchResult = tempResult;
         }
 
         ////public override void Cleanup()
