@@ -13,5 +13,6 @@
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model/books.tt")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("books_log.ldf")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model/books.mdf")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model/books_log.ldf")]
 
 

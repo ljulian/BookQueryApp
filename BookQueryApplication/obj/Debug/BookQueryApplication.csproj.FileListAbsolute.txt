@@ -40,6 +40,7 @@ E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Deb
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.xml
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.SqlServer.xml
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication_Content.g.cs
+<<<<<<< HEAD
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\bin\Debug\Books.mdf
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\bin\Debug\Books_log.ldf
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\bin\Debug\Model\Books.mdf
@@ -82,3 +83,6 @@ C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQuery
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\obj\Debug\BookQueryApplication.csproj.CopyComplete
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\obj\Debug\BookQueryApplication.exe
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\obj\Debug\BookQueryApplication.pdb
+=======
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Model\Books_log.ldf
+>>>>>>> 603b45df0077f4e4890d83807c27d504f393b364
