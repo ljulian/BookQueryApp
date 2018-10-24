@@ -1,49 +1,7 @@
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\BookQueryApplication.exe.config
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\BookQueryApplication.exe
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\BookQueryApplication.pdb
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\BookQueryApplication.exe.CodeAnalysisLog.xml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\BookQueryApplication.exe.lastcodeanalysissucceeded
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\GalaSoft.MvvmLight.dll
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\GalaSoft.MvvmLight.Extras.dll
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\GalaSoft.MvvmLight.Platform.dll
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\System.Windows.Interactivity.dll
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\GalaSoft.MvvmLight.pdb
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\GalaSoft.MvvmLight.xml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\GalaSoft.MvvmLight.Extras.xml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\GalaSoft.MvvmLight.Platform.xml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Microsoft.Practices.ServiceLocation.xml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.csprojAssemblyReference.cache
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\App.g.cs
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication_MarkupCompile.cache
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication_MarkupCompile.lref
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\App.baml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.g.resources
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.Properties.Resources.resources
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.csproj.GenerateResource.cache
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.csproj.CoreCompileInputs.cache
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.csproj.CopyComplete
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.exe
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication.pdb
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\View\MainWindow.baml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\View\Skins\MainSkin.baml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\View\MainWindow.g.cs
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Books.mdf
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Books_log.ldf
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Model\Books.mdf
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.dll
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.SqlServer.dll
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.xml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.SqlServer.xml
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication_Content.g.cs
-<<<<<<< HEAD
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\bin\Debug\Books.mdf
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\bin\Debug\Books_log.ldf
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\bin\Debug\Model\Books.mdf
+C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\bin\Debug\Model\Books_log.ldf
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\bin\Debug\BookQueryApplication.exe.config
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\bin\Debug\BookQueryApplication.exe
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\bin\Debug\BookQueryApplication.pdb
@@ -83,7 +41,3 @@ C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQuery
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\obj\Debug\BookQueryApplication.csproj.CopyComplete
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\obj\Debug\BookQueryApplication.exe
 C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\obj\Debug\BookQueryApplication.pdb
-=======
-E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Model\Books_log.ldf
->>>>>>> 603b45df0077f4e4890d83807c27d504f393b364
-C:\Users\Luis\Documents\CECS 300s\Fall 2018\CECS 475\Labs\BookQueryApp\BookQueryApplication\bin\Debug\Model\Books_log.ldf
