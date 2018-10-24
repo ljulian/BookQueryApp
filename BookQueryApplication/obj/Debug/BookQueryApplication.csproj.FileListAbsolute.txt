@@ -40,3 +40,4 @@ E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Deb
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.xml
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\EntityFramework.SqlServer.xml
 E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\obj\Debug\BookQueryApplication_Content.g.cs
+E:\Documents\CECS_475_Projects\BookQueryApplication\BookQueryApplication\bin\Debug\Model\Books_log.ldf

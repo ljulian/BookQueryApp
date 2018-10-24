@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:ignore="http://www.galasoft.ch/ignore"
         mc:Ignorable="d ignore"
-        Height="344.172"
-        Width="529.141"
+        Height="357.976"
+        Width="680.981"
         Title="Book App"
         DataContext="{Binding Main, Source={StaticResource Locator}}">
 
@@ -19,19 +19,24 @@
     </Window.Resources>
 
     <Grid x:Name="LayoutRoot">
-        <ScrollViewer Height="293" Width="292" Margin="10,10,219,10">
+        <ScrollViewer Height="293" Margin="23,17,295,17" HorizontalScrollBarVisibility="Auto">
             <TextBlock FontSize="12"
                    Foreground="Black"
                    Text="{Binding Path=SearchResult}"
                    VerticalAlignment="Center"
-                   HorizontalAlignment="Center"
-                   TextWrapping="Wrap"  />
+                   HorizontalAlignment="Center"/>
         </ScrollViewer>
-        
+
         <Button Content="List Title-Author" HorizontalAlignment="Left"
                 Command="{Binding TitleAuthorCommand}"
-                VerticalAlignment="Top" Width="140" Margin="329,104,0,0"/>
-        <Button Content="List Title-Author Sorted" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" Margin="329,171,0,0"/>
+                VerticalAlignment="Top" Width="140" Margin="447,89,0,0"/>
+        <Button Content="List Title-Author Sorted" HorizontalAlignment="Left"
+                Command="{Binding TitleAuthorByAuthorCommand}"
+                VerticalAlignment="Top" Width="140" Margin="447,155,0,0"/>
+        <Button Content="List Authors of Title" HorizontalAlignment="Left"
+                Command="{Binding AuthorForTitleCommand}"
+                VerticalAlignment="Top" Width="140" Margin="447,218,0,0"/>
+
 
     </Grid>
 </Window>
